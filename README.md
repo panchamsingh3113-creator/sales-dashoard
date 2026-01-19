@@ -245,4 +245,5 @@ Author
 Pancham Kumar Singh
 BBA – Birla Institute of Technology, Mesra
 Aspiring Data / Business Analyst
+ screenshort /demo : https://github.com/panchamsingh3113-creator/sales-dashoard/blob/main/Screenshot%20(1).png
 
